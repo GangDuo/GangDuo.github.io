@@ -2,4 +2,4 @@
 
 cd `dirname $0`
 
-docker-compose run --rm --service-ports app npm run dev
+docker-compose run --rm --service-ports app npm run develop

@@ -6,10 +6,10 @@ module.exports = {
   twitterUsername: '',
   githubUsername: 'GangDuo',
   authorAvatar: '/images/avatar.png',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `私は最初に勤めた会社の研修で、C言語の勉強を始め、組み込みソフトウェア開発者としてデビューしました。
+    2006年に私はWebサイトに興味を持ちHTML、CSS、JavaScriptを使って、ECサイトを構築しました。
+    2009年に私はC#の学習を開始し、.NETアプリケーションを開発し、設立して間もない企業のシステム構築に貢献しました。
+    現在の私は主にJavaScript、Node.js、Reactを使用したアプリケーションの開発をしています。`,
   skills: [
     {
       name: 'HTML',

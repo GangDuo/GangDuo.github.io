@@ -52,7 +52,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: "HUMPTYDUMPTY",
+      company: "",
       begin: {
         month: '12',
         year: '2012'
@@ -62,7 +62,7 @@ module.exports = {
       description: "私は小売チェーン店の本社業務効率化アプリケーションの企画・開発・保守を担当し、ソフトウェアで退屈な時間から人類を解放し、私達の生活を進歩させます。"
 
     },  {
-      company: "Logiway",
+      company: "",
       begin: {
         month: '10',
         year: '2009'
@@ -72,7 +72,7 @@ module.exports = {
       description: "私は物流センター管理システムの個人向け配送サービスの企画・開発・保守を担当しました。"
 
     }, {
-      company: "Yokoyama",
+      company: "",
       begin: {
         month: '8',
         year: '2006'
@@ -81,7 +81,7 @@ module.exports = {
       occupation: "Fullstack developer",
       description: "複数の美容・健康ECサイトの構築。受注管理システムの企画、複数サイトの商品一元管理システムの企画・開発・保守を担当しました。"
     }, {
-      company: "computron",
+      company: "",
       begin: {
         month: '4',
         year: '2003'
